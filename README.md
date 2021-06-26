@@ -1,5 +1,5 @@
 ## Helabot
-#### Bot Discord for the Helasia server
+#### Bot Discord for the Helasia discord server
 #### Create by Melyrks
 #### Coding in Javascript with the  Discord.js API V12.5.3 
 
