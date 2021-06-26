@@ -1,0 +1,27 @@
+{
+    "name":"",
+    "surname": "",
+    "race": "",
+    "sexe": "",
+    "age": "",
+    "born": "",
+    "blood": "",
+    "gen": "",
+    "orientation": "",
+    "taille": "",
+    "poids": "",
+    "descPhy":"",
+    "metier": "",
+    "salary": 0,
+    "adresse": "",
+    "competence": "", 
+    "magie": "", 
+    "descVest": "", 
+    "inventory": [],
+    "money": 0,
+    "bankMoney": 0,
+    "skills": [],
+    "other" : "",
+    "image": ""
+
+}
