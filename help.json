@@ -1,0 +1,27 @@
+{
+    "hrpCommand": [
+        "__&météo {Saison} {Date} :__ Permet d'afficher la météo du jours [Staff only]\n Exemple : &meteo 1 12/12/12\n\n",
+        "__&purge {Nombre} :__ Permet de suprimer le montant de message dit [Staff only]\n Exemple : &purge 3\n\n",
+        "__&roll {Roll} :__ Permet de jetter un dées avec les arguments rentrer\n Exemple : &roll 1d100\n\n",
+        "__&ticket {character} ou {support} :__ Crée un ticket pour communiquer avec le staff en fonction de votre demande (Attention a bien respecter l'orthographe)\n Exemple : &ticket support ou &ticket character\n\n"
+    ],
+    "moneyCommand": [
+        "__&withdraw {Montant} {character-name}__ : Enlève le montant d'argent qu'un personnage à de sa poche [Commande indisponible] [Staff only]\n Exemple : &withdraw 30 Norowa\n\n",
+        "__&add-money {Montant} {character-name}__ : Permet d'ajouter un montant d'argent a un personnage de sa banque [Commande indisponible] [Staff only]\n Exemple : &add-money 30 Norowa\n\n",
+        "__&remove-money {Montant} {character-name}__ : Permet d'enlever un montant d'argent a un personnage de sa banque [Commande indisponible] [Staff only]\n Exemple : &remove-money 30 Norowa\n\n",
+        "__&setsalaire {Montant} {character-name}__ : Permet de donner un salaire a un personnage qui sera persue tout les mois [Commande indisponible] [Staff only]\n Exemple : &set-salaire 30 Norowa\n\n",
+        "__&money {character-name}__ : Permet d'afficher la quantiter d'argent que le personnage à dans sa bourse et sa banque [Commande indisponible]\n Exemple : &money Norowa\n\n"
+    ],
+    "inventoryCommand": [
+        "__&add-inventory {Objet} {character-name}__ : Ajoute un objet dans l'inventaire du personnage [Commande indisponible]\n Exemple :&add-inventory Poche de sang Norowa\n\n",
+        "__&remove-inventory {Objet} {character-name}__ : Enlève un objet de l'inventaire du personnage (Attention a l'ortographe de l'objet) [Commande indisponible]\n Exemple : &remove-inventory Poche de sang Norowa\n\n",
+        "__&inventory {character-name}__ : Affiche l'inventaire du personnage rentrer [Commande indisponible]\n Exemple : &inventory Norowa\n\n"
+    ],
+    "characterCommand": [
+        "__&add-character {character-name}__ : Permet d'enrengistrer un nouveau personnage [Commande indisponible]\n Exemple : &add-character Norowa\n\n",
+        "__&remove-character {character-name}__ : Permet de supprimer un personnage existant [Commande indisponible][Staff only]\n Exemple : &remove-character Norowa\n\n",
+        "__&edit-character {character-name}__ : Permet d'étider un personnage existant [Commande indisponible]\n Exemple : &edit-character Norowa\n\n",
+        "__&characters__ : Affiche une liste des personnages crées [Commande indisponible]\n Exemple : &characters\n\n",
+        "__&character {character-name}__ : Affiche le personnage voulue [Commande indisponible]\n Exemple : &character Norowa\n\n"
+    ]
+}
