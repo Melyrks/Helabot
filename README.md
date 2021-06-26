@@ -2,6 +2,8 @@
 
 I created this bot for the discord server "Helasia". A french fantasy Roleplay, you can join with this invite : https://discord.gg/DZ66N6Aw /!\ The invite can maybe be delete if the owner did it. 
 
+I use some base code of the "Agabot", with the permission of the original owner (I am one of them now)
+
 It was created with the discord.js API with the ^12.5.3 version
 
 If you want to use or upgrade with using my code, just send me a message for informing me and you need to credit me on your work !
