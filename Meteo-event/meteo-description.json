@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Clair",
+        "description": ["Le soleil réchauffera les territoires sans perturbation."]
+    },
+    {
+        "name": "Ciel Empyréen",
+        "description": ["La luminosité est plus faible que la normale, le ciel arborant une teinte rosée comme celle de l'aube."]
+    },
+    {
+        "name": "Pyrocumulus",
+        "description": ["Ces nuages aux teintes chaudes et à l'aspect vaporeux annoncent des températures au delà de la normale."]
+    },
+    {
+        "name": "Arc de feu",
+        "description": ["Le ciel est aujourd'hui traversé comme d'une flamme arc-en-ciel, apportant un climat doux."]
+    },
+    {
+        "name": "Sylphes rouges",
+        "description": ["Des objets lumineux rouges apparaitrons et disparaîtrons du ciel, les énergies électriques semblent être plus fortes que d'habitude.", "(-5 sur les rolls de magie de foudre)"]
+    },
+    {
+        "name": "Ciel Vespéral",
+        "description": ["Ce ciel aux couleurs orangées sera synonyme d'une nuit calme et chaude."]
+    },
+    {
+        "name": "Brume Rouge",
+        "description": ["Une brume aux propriété occulte peu connue, les créatures de ce domaine rôderons toute la journée. Nous conseillons de rester en lieu sûr. On ne vois pas à plus de 3 mètres.", "(+5 sur les rolls encounter et de magie d'adjuration, +10 sur les rolls d'observation, -5 sur les rolls de magie démonique)"]
+    },
+    {
+        "name": "Tempête Solaires",
+        "description": ["Semblable aux aurores boréales, ici ce n'est pas qu'un trait, mais le ciel entier qui se remplis de salves bleutées, rosée et dorée. ", "(-5 sur les rolls de magies Solaire)"]
+    },
+    {
+        "name": "Parhélie",
+        "description": ["Aujourd'hui le soleil apparaît triple, mais ne se fera pas ressentir au triple. \n ", "(+5 sur les rolls de magie d'ombre, -5 sur les rolls de magie de lumière)"]
+    },
+    {
+        "name": "Nuages Incendiaires",
+        "description": ["Le ciel se retrouve couvert de nuages en spirales aux couleurs chaudes, tout comme l'est la température actuelle."]
+    },
+    {
+        "name": "Orage de chaleur",
+        "description": ["L'air et lourd et le ciel est obscurcis par des nuages noirs, de la foudre occasionelle peut être vue, c'est un orage de chaleur."]
+    },
+    {
+        "name": "Ciel éthéré de feu",
+        "description": ["Le ciel prends des teintes chaudes, chargé d'éther de feu. La température est extrêmement haute. ", "(-10 sur les rolls de magie de feu, +10 sur les rolls de magie de glace)"]
+    },
+    {
+        "name": "Vent éthéré de feu",
+        "description": ["L'air se réchauffera drastiquement alors que l'énergie de feu prendra d'assaut les terres... ", "(-5 sur les rolls de magie de feu, +5 sur les rolls de magie de glace)"]
+    },
+    {
+        "name": "Tempête de sable",
+        "description": ["Gare aux yeux, car aujourd'hui il y à du sable dans l'air, réduisant la visibilité. ", "(+5 sur les rolls d'observation)"]
+    },
+    {
+        "name": "Vague de chaleur",
+        "description": ["Gare à vous, l'hydratation est à prévoir, car il y à une canicule."]
+    },
+    {
+        "name": "Nuageux",
+        "description": ["Le ciel sera couvert de nuages simple, avec quelques éclaircis ci et là."]
+    },
+    {
+        "name": "Peu nuageux",
+        "description": ["Le ciel sera majoritairement clair, à l'exception de quelques nuages ci et là."]
+    },
+    {
+        "name": "Couvert",
+        "description": ["Le ciel sera totalement couvert par les nuages, l'air étant humide."]
+    },
+    {
+        "name": "Pluie",
+        "description": ["Des fines gouttes de pluie viendront rafraîchir la température, et ce durant un moment. ", "(+5 sur les rolls de magie de feu, -5 sur les rolls de magie d'eau)"]
+    },
+    {
+        "name": "Pluie forte",
+        "description": ["De grosses gouttes de pluie vienne s'abbatre dans la régions, attention au potentiel innondation. ", "(+5 sur les rolls de magie de feu, -5 sur les rolls de magie d'eau)"]
+    },
+    {
+        "name": "Nuage éthéré",
+        "description": ["Des nuages chargés d'éther viendront remplir le ciel, appliquant diverses effets. ", "(Bonus et malus changeant, cf description donnée dans le message en dessous)"]
+    },
+    {
+        "name": "Averse",
+        "description": ["Voilà une pluie bien soudaine et très forte, aucun risques si ce n'est un gros rhume. ", "(+10 sur les rolls de magie de feu, -10 sur les rolls de magie d'eau)"]
+    },
+    {
+        "name": "Brume d'Ether",
+        "description": ["Une brume chargée d'éther viendrons bloquer la vue, appliquant diverses effets. ", "(+5 sur les rolls d'observation, bonus et malus changeant, cf description donnée dans le message en dessous)"]
+    },
+    {
+        "name": "Tempête Etheréenne",
+        "description": ["Une tempête classique avec de l'éther impmanté en son oeil, appliquant diverses effets. ", "(Bonus et malus changeant, cf description donnée dans le message en dessous)"]
+    },
+    {
+        "name": "Tornade",
+        "description": ["Danger ! Restez à l'abrit car un tourbillon de vent frappera les terres et détruira tout sur son chemin."]
+    },
+    {
+        "name": "Pluie Acide",
+        "description": ["Danger ! Restez à l'abrit, une pluie acide est en cour et mettra à risque de problème cutané tout être vivant laisser en dessous."]
+    },
+    {
+        "name": "Nuage lenticulaires",
+        "description": ["On pourra appercevoir des nuages en forme de lentille au dessus des diverses montagnes, l'air étant frais au niveau des plaines mais plutôt chaud en hauteur."]
+    },
+    {
+        "name": "Nuages Nacréscents",
+        "description": ["Le soleil couchant donnera aux nuages une teinte nacrée, à l'image des perles."]
+    },
+    {
+        "name": "Pluie de sang",
+        "description": ["Pas éxactement du sang, cette pluie en partage néanmoins la teinte et la texture, le seul risque réel est qu'elle tâche. "]
+    },
+    {
+        "name": "Nuages de la gloire",
+        "description": ["Aujourd'hui, des énormes nuages longs et en tubes seront visible dans le ciel."]
+    },
+    {
+        "name": "Nuages mammatus",
+        "description": ["Le ciel sera couvert de nuages assez étrange aujourd'hui, ressemblant à des morceaux tombant du ciel"]
+    },
+    {
+        "name": "Blizzard éthéré",
+        "description": ["Une sorte de blizzard composé de flocons de cristaux chargé d'éther sera à prévoir aujourd'hui. ", "(Bonus et malus Changeant, cf description données dans le message en dessous)"]
+    },
+    {
+        "name": "Venteux",
+        "description": ["Du vent viendra rafraîchir les terres aujourd'hui."]
+    },
+    {
+        "name": "Brumeux",
+        "description": ["Une brume peu épaisse apparaîtra dans l'air aujourd'hui, empêchant de voir à plus de 6 mètres.", "(+5 sur les rolls d'observation, -5 sur les rolls de magie d'eau)"]
+    },
+    {
+        "name": "Orage",
+        "description": ["Le ciel sera couvert et chargé d'électricité, une aubaine pour les mages de foudre, mais un danger pour ceux qui ne sont pas protéger contre la foudre.", "(-5 sur les rolls de magie de foudre)"]
+    },
+    {
+        "name": "Grêle",
+        "description": ["Attention ! Aujourd'hui des cailloux de glace sont à prévoir, il grêle !"]
+    },
+    {
+        "name": "Neige",
+        "description": ["Pour le plus grand bonheur de ceux qui aiment la poudreuse, il neige aujourd'hui !", "(-5 sur les rolls de magie de glace)"]
+    },
+    {
+        "name": "Brume épaisse",
+        "description": ["Une brume épaisse apparaîtra dans l'air aujourd'hui, empêchant de voir à plus de 3 mètres.", "(+10 sur les rolls d'observation, -5 sur les rolls de magie d'eau)"]
+    },
+    {
+        "name": "Nuages étagère",
+        "description": ["Des nuages orageux apparaitrons sous la forme d'étagère à 2 ou 3 étages, ils prévoient des chutes drastique de température."]
+    },
+    {
+        "name": "Tempête aux murmures",
+        "description": ["Attention ! Tempête forte à prévoir au point que le vent en fera des murmures, nous vous conseillons de rester à l'abrit."]
+    },
+    {
+        "name": "Tempête",
+        "description": ["Une tempête est à prévoir avec énormément de pluie, sortez couvert si vous avez besoins de sortir."]
+    },
+    {
+        "name": "Colonne de lumière ",
+        "description": ["Cette nuit, on peut appercevoir des colonne lumineuses de toutes les couleurs dans le ciel, offrant un spectacle assez beau.", "(-5 sur les rolls de magie de glace)"]
+    },
+    {
+        "name": "Nuages d'aspérités",
+        "description": ["Rien de très notable en matière de risque si ce n'est d'être impressionner par ces nuages à l'aspect de vagues presque irréels."]
+    },
+    {
+        "name": "Ciel éthéré de vent",
+        "description": ["Le ciel arborera des couleurs argentée, comme si d'inombrables toiles de soie étaient étirées, refroidissant drastiquement l'atmosphère.", "(-10 sur les rolls de magie de vent, +10 sur les rolls de magie de feu)"]
+    },
+    {
+        "name": "Tempête de Neige",
+        "description": ["Danger ! Une énorme tempête de neige s'abattra sur les terre aujourd'hui, ne sortez surtout pas en dehors des villes.", "(+10 sur les rolls d'observation et de magie d'eau, -10 sur les rolls de magie de glace)"]
+    },
+    {
+        "name": "Orage et grêle",
+        "description": ["Comme si un orage n'était pas assez... il y à de la grêle en plus, nous conseillons de ne pas sortir."]
+    },
+    {
+        "name": "Grêle majeure",
+        "description": ["Danger ! Des grêllons de la taille de balle de billard tomberons du ciel, mettant à risque quoi que ce soit qui se trouve en dessous."]
+    },
+    {
+        "name": "Orage Majeur",
+        "description": ["Danger ! La tension électrique est particulièrement forte et les éclairs mettent à risque quiconque se trouve dehors."]
+    },
+    {
+        "name": "Vague de froid",
+        "description": ["Sortez bien couvert, une vague de froid va s'installer sur les terres, mordant les membres de ceux qui ne sont pas adapté au grand froid."]
+    },
+    {
+        "name": "Ouragan",
+        "description": ["Danger ! Le vent sera extrêmement fort et mettra à risque tout ce qui se trouve hors d'un abrit.", "(-10 sur les rolls de magie de vent, +10 sur les rolls de magie de feu et d'eau)"]
+    },
+    {
+        "name": "Ciel éthéré de glace",
+        "description": ["Le ciel semblera brisé, à cause de l'éther de glace présent dans celui ci. L'air sera très froid.", "(-10 sur les rolls de magie de glace, +10 sur les rolls de magie d'eau)"]
+    },
+    {
+        "name": "Blizzard",
+        "description": ["Danger ! Un blizzard s'abattra sur les terres, rendant la visibilité nulle et mettant la vie de quiquonque sort en danger.", "(+15 sur les rolls d'observation et de magie d'eau, -15 sur les rolls de magie de glace)"]
+    },
+    {
+        "name": "Aurore boréale",
+        "description": ["Aussi froide sera votre nuit, aussi belle sera-elle avec les vagues bleue, rose et dorée qui illuminerons une partie du ciel."]
+    },
+    {
+        "name": "Arc-blanc",
+        "description": ["Pour une raison obscure, des arc-blancs seront visible un peu partout, ces arcs-en-ciel monochrome annonce les températures très basses."]
+    },
+    {
+        "name": "Eclipse",
+        "description": ["Aujourd'hui le ciel sera noir, le soleil est couvert par la lune, donnant un spectacle presque apocalyptique.", "(+15 sur les rolls de magie de lumière, -15 sur les rolls de magie d'ombre et lunaire et solaire.)"]
+    }
+]

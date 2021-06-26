@@ -1,0 +1,599 @@
+{
+  "spring": [
+    {
+      "frequence": "frequent",
+      "types": [
+        {
+          "type": "goodTime",
+          "choix": [
+            "Nuageux",
+            "Peu nuageux",
+            "Couvert",
+            "Clair"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "Nuageux",
+            "Peu nuageux",
+            "Couvert"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Pluie",
+            "Couvert"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Pluie",
+            "Couvert"
+          ]
+        }
+      ]
+    },
+    {
+      "frequence": "moyennementFrequent",
+      "types": [
+        {
+          "type": "goodTime",
+          "choix": [
+            "Clair"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "Venteux"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Venteux",
+            "Pluie"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Pluie forte",
+            "Venteux",
+            "Pluie"
+          ]
+        }
+      ]
+    },
+    {
+      "frequence": "rare",
+      "types": [
+        {
+          "type": "goodTime",
+          "choix": [
+            "Ciel Empiréen"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "Nuage éthéré",
+            "Averse",
+            "Pluie"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Neige",
+            "Grêle",
+            "Orage",
+            "Brumeux"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Ciel éthéré de vent"
+          ]
+        }
+      ]
+    },
+    {
+      "frequence": "veryRare",
+      "types": [
+        {
+          "type": "goodTime",
+          "choix": [
+            "Ciel Empiréen"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "Tornade",
+            "Brume d'Ether",
+            "Pluie Acide",
+            "Brume épaisse",
+            "Nuage lenticulaires"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Orage Majeur",
+            "Nuages étagère",
+            "Eclipse",
+            "Brume épaisse"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Tempête de Neige",
+            "Grêle majeure",
+            "Tempête aux murmures",
+            "Orage et grêle"
+          ]
+        },
+        {
+          "type": "burningBadTime",
+          "choix": [
+            "Nuages Incendiaires"
+          ]
+        }
+      ]
+    }
+  ],
+  "summer": [
+    {
+      "frequence": "frequent",
+      "types": [
+        {
+          "type": "goodTime",
+          "choix": [
+            "Clair"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "Peu nuageux"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Couvert"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Venteux"
+          ]
+        }
+      ]
+    },
+    {
+      "frequence": "moyennementFrequent",
+      "types": [
+        {
+          "type": "goodTime",
+          "choix": [
+            "Clair"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "Couvert",
+            "Nuageux"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Couvert"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Venteux"
+          ]
+        },
+        {
+          "type": "burningBadTime",
+          "choix": [
+            "Vague de chaleur"
+          ]
+        }
+      ]
+    },
+    {
+      "frequence": "rare",
+      "types": [
+        {
+          "type": "goodTime",
+          "choix": [
+            "Orage de chaleur",
+            "Ciel Empyréen"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "Averse",
+            "Nuage éthéré",
+            "Averse"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Venteux",
+            "Averse"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Pluie forte"
+          ]
+        },
+        {
+          "type": "burningBadTime",
+          "choix": [
+            "Ciel éthéré de feu",
+            "Nuages Incendiaires"
+          ]
+        }
+      ]
+    },
+    {
+      "frequence": "veryRare",
+      "types": [
+        {
+          "type": "goodTime",
+          "choix": [
+            "Pyrocumulus"
+          ]
+        },
+        {
+          "type": "goodTimeDay",
+          "choix": [
+            "Arc de feu"
+          ]
+        },
+        {
+          "type": "goodTimeNight",
+          "choix": [
+            "Sylphes rouges"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "Orage",
+            "Nuage éthéré",
+            "Brume d'Ether",
+            "Tempête Etheréenne",
+            "Pluie Acide",
+            "Nuages lenticulaires",
+            "Pluie de sang"
+          ]
+        },
+        {
+          "type": "neutralTimeNight",
+          "choix": [
+            "Nuages Nacréscents"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Brumeux",
+            "Tempête aux murmures"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Orage Majeur"
+          ]
+        },
+        {
+          "type": "burningBadTime",
+          "choix": [
+            "Tempête de sable"
+          ]
+        }
+      ]
+    }
+  ],
+  "fall": [
+    {
+      "frequence": "frequent",
+      "types": [
+        {
+          "type": "goodTime",
+          "choix": [
+            "Clair"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "Nuageux",
+            "Couvert",
+            "Pluie",
+            "Averse"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Pluie",
+            "Couvert"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Pluie forte"
+          ]
+        }
+      ]
+    },
+    {
+      "frequence": "moyennementFrequent",
+      "types": [
+        {
+          "type": "goodTime",
+          "choix": [
+            "Ciel Vespéral"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "Peu nuageux"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Venteux",
+            "Tempête",
+            "Brumeux"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Orage"
+          ]
+        }
+      ]
+    },
+    {
+      "frequence": "rare",
+      "types": [
+        {
+          "type": "goodTime",
+          "choix": [
+            "Clair",
+            "Ciel Empyréen"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "Tempête Etheréenne",
+            "Brume d'Ether",
+            "Nuage éthéré"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Orage",
+            "Grêle",
+            "Brume épaisse"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Orage Majeur",
+            "Orage et grêle",
+            "Vague de froid"
+          ]
+        }
+      ]
+    },
+    {
+      "frequence": "veryRare",
+      "types": [
+        {
+          "type": "goodTime",
+          "choix": [
+            "Brume Rouge"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "Pluie de sang",
+            "Nuages de la gloire",
+            "Nuages mammatus",
+            "Pluie Acide",
+            "Tornade"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Neige",
+            "Tempête aux murmures"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Ciel éthéré de feu",
+            "Nuages Incendiaires",
+            "Tempête de sable"
+          ]
+        }
+      ]
+    }
+  ],
+  "winter": [
+    {
+      "frequence": "frequent",
+      "types": [
+        {
+          "type": "goodTime",
+          "choix": [
+            "Neige"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "Neige"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Brumeux",
+            "Venteux",
+            "Couvert"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Brumeux"
+          ]
+        }
+      ]
+    },
+    {
+      "frequence": "moyennementFrequent",
+      "types": [
+        {
+          "type": "goodTime",
+          "choix": [
+            "Clair"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "x"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Brume épaisse"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Vague de froid"
+          ]
+        }
+      ]
+    },
+    {
+      "frequence": "rare",
+      "types": [
+        {
+          "type": "goodTime",
+          "choix": [
+            "Neige"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "Averse",
+            "Pluie",
+            "Nuage éthéré"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Grêle"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Ciel éthéré de glace",
+            "Tempête de neige"
+          ]
+        }
+      ]
+    },
+    {
+      "frequence": "veryRare",
+      "types": [
+        {
+          "type": "goodTimeNight",
+          "choix": [
+            "Tempête Solaires"
+          ]
+        },
+        {
+          "type": "goodTimeDay",
+          "choix": [
+            "Parhélie"
+          ]
+        },
+        {
+          "type": "neutralTime",
+          "choix": [
+            "Blizzard éthéré"
+          ]
+        },
+        {
+          "type": "badTime",
+          "choix": [
+            "Tempête",
+            "Nuages d'aspérités"
+          ]
+        },
+        {
+          "type": "badTimeNight",
+          "choix": [
+            "Colonne de lumière"
+          ]
+        },
+        {
+          "type": "veryBadTime",
+          "choix": [
+            "Blizzard",
+            "Grêle majeure"
+          ]
+        },
+        {
+          "type": "verbadTimeNight",
+          "choix": [
+            "Aurore boréale"
+          ]
+        }
+      ]
+    }
+  ]
+}
