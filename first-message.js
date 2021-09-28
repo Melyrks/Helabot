@@ -4,7 +4,7 @@
     if (reactions.length > 0) {
       setTimeout(() => addReactions(message, reactions), 750)
     }
-  }
+  }*/
   
   module.exports = async (client, id, text, reactions = []) => {
     const channel = await client.channels.fetch(id)
@@ -23,6 +23,4 @@
         }
       }
     })
-  }*/ 
-
-//This file is unuse for the moment
+  }
