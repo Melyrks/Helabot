@@ -47,7 +47,7 @@ module.exports = {
                     name: "Âge", value: char.age, inline: true
                 },
                 {
-                    name: "Date de naissance", value: char.born, inline: true
+                    name: "DoB", value: char.born, inline: true
                 },
                 {
                     name: "Sang", value: char.blood, inline: true
@@ -86,7 +86,7 @@ module.exports = {
                     name: "Autre", value: char.other, inline: false
                 },
                 {
-                    name: "Image", value: "Image du character", inline: false
+                    name: "Image", value: "⠀", inline: false
                 }
             )
             .setImage(`${char.image}`)

@@ -16,7 +16,7 @@ module.exports = {
       console.log(dice.result) 
       console.log(client)*/
       //console.log(person);
-      client.channel.send(`${user} roll ${result} [${rolled}]`) //Voire le client.author.id pourquoi il ne ping pas
+      client.channel.send(`${user} roll ${result} [${rolled}]`) 
     } else {
       console.error(userInput)
 
