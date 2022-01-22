@@ -1,11 +1,11 @@
 ## Helabot
 #### Bot Discord for the Helasia discord server
-#### Create by Melyrks
-#### Coding in Javascript with the  Discord.js API V12.5.3 
+#### Created by Melyrks
+#### Done in Javascript with the Discord.js API V12.5.3 
 
 
 ### Sharing
-It's forbiden to copy the entire code. If you want to use for upgrade or base for your bot with  my code, you need to send me a message for informing me and you need to credit me on your work !
+If you want to use for upgrade or base for your bot with  my code, you need to send me a message for informing me and credit me on your work !
 For joining me use this email : chommel973@gmail.com or my discord : Melyrks#3744
 
 ### More
